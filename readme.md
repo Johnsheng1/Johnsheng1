@@ -1,6 +1,6 @@
 # Hi, I'm John 👋
 
-I'm an undergraduate student majoring in **Robotics Engineering** at JUST.edu.cn.
+I'm an undergraduate student at JUST.edu.cn.
 
 I'm interested in:
 
@@ -12,7 +12,6 @@ I'm interested in:
 
 ## About Me
 
-- 🎓 Robotics Engineering student
 - 🌱 Currently learning programming, robotics, and AI
 - 🔍 Interested in understanding how things work
 - 🎮 Enjoy playing games and exploring technology
