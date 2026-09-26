@@ -8,7 +8,7 @@ I'm interested in:
 - 💻 Programming and software development
 - 🧠 Artificial intelligence and machine learning
 - 🛠️ Building useful projects with code
-
+- 🎻 Music！
 
 ## About Me
 
