@@ -16,3 +16,4 @@ I'm interested in:
 - 🔍 Interested in understanding how things work
 - 🎮 Enjoy playing games and exploring technology
 - 📚 Always trying to learn something new
+- 🎶 Professional in violin, amateur in ocarina.
